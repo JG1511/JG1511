@@ -1,6 +1,6 @@
 # João Guilherme
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo João Guilherme de Lima Oliveira, tenho 19 anos e sou natural do Rio Grande do Norte. Conclui o ensiono médio no EAJ, com o curso técnico em informática. Atualmente, estou cursando Sistemas para Internet no IFRN. 
 
@@ -12,7 +12,7 @@ Me chamo João Guilherme de Lima Oliveira, tenho 19 anos e sou natural do Rio Gr
             src="https://custom-icon-badges.demolab.com/github/stars/JG1511?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/JG1511?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
